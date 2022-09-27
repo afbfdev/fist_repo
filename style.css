@@ -7,6 +7,8 @@
     background-color: white;
     width: 100%;
     position: fixed;
+    box-shadow: 10px 5px 5px red    ;
+    
 }
 
 .topbar {
@@ -49,6 +51,7 @@ nav ul li:hover ul { /* Affiche la dropNav au survol de la souris avec la class 
 }
 nav ul li:hover ul li {
     float:none;
+    color: #00b39b;
 }
 
 
